@@ -1,5 +1,6 @@
 ﻿namespace MyMassenger1
 {
+    [Serializable]
     public class Message
     {
         public string UserName { get; set; }
